@@ -4,7 +4,6 @@
 - I'm looking to collaborate in any area of ​​backend programming at the moment
 
 ### GitHub Stats
-- ![ClecianoPedro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ClecianoPedro&theme=blue-green&hide_border=true)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClecianoPedro&show_icons=true&theme=radical)](https://github.com/ClecianoPedro/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClecianoPedro&layout=compact&theme=radical)](https://github.com/ClecianoPedro/)
 
 
