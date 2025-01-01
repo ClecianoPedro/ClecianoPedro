@@ -1,6 +1,6 @@
 - Hi, I’m @ClecianoPedro.
 - I’m interested in my first job.
-- I’m currently studying the Python, Java, Javascript programming language and studying web development.
+- I’m currently studying the Python, Java, JavaScript, TypeScript programming language and studying web development.
 - I'm looking to collaborate in any area of ​​backend programming at the moment.
 
 ### GitHub Stats
